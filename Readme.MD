@@ -1,5 +1,5 @@
 Replacement Software for the W8TEE/K2ZIA Antenna Analyzer by WA2FZW
-Version 3.8
+Version 3.9
 
 The software provided here is an upgrade for the K8TEE/K2ZIA Antenna
 Analyzer (See November 2017 QST). It contains many additional features
